@@ -33,12 +33,30 @@ function jeherve_is_jetpack_mobile() {
  * Let's add our custom stylesheet if we're on a mobile device.
  */
 function jeherve_mobile_maybe_add_stylesheet() {
-	// Register our stylesheet.
-	wp_register_style( 'jeherve-mobile-css', plugins_url( 'style.css', __FILE__ ) );
-
 	// On mobile?
 	if ( jeherve_is_jetpack_mobile() ) {
-		wp_enqueue_style( 'jeherve-mobile-css' );
+
+		// Are we using 4.7
+		if ( function_exists( 'wp_custom_css_cb' ) ) {
+
+			// Let's remove Jetpack's stylesheet overwrite
+			remove_action( 'option_stylesheet', 'jetpack_mobile_stylesheet' );
+
+			// Get the desktop theme name.
+			$desktop_theme = get_option( 'stylesheet' );
+
+			// Get styles for that theme.
+			$styles = wp_get_custom_css( $desktop_theme );
+
+			// Output styles if stylesheet isn't empty
+			if ( $styles ) : ?>
+				<style type="text/css" id="wp-custom-css">
+					<?php echo strip_tags( $styles ); ?>
+				</style>
+			<?php endif;
+
+		}
+
 	}
 }
-add_action( 'wp_enqueue_scripts', 'jeherve_mobile_maybe_add_stylesheet' );
+add_action( 'wp_head', 'jeherve_mobile_maybe_add_stylesheet' );
