@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Custom CSS for Jetpack's Mobile Theme
  * Plugin URI: http://jetpack.com
- * Description: Customize Jetpack's Mobile Theme by adding this plugin, and editing style.css inside the plugin.
+ * Description: Customize Jetpack's Mobile Theme by adding this plugin, and editing styles under Appearance > Customize.
  * Author: Automattic
  * Version: 1.1.0
  * Author URI: https://jeremy.hu
