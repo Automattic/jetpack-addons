@@ -21,6 +21,10 @@ If you experience issues with one of those plugins, you can contact Jetpack supp
 
 - [Change Gallery Links](https://github.com/jeherve/jetpack-addons/archive/change-gallery-links.zip): Change the link value for all links in the Gallery using the ID 4.
 
+### Related Posts
+
+- [Public Related Posts](https://github.com/jeherve/jetpack-addons/archive/public-related-posts.zip): Forces Posts to be considered public by Jetpack.
+
 ### Widgets
 
 - [Random Top Posts](https://github.com/jeherve/jetpack-addons/archive/random-top-posts.zip): Replace the posts displayed in the Top Posts Widget by a list of random posts, that all include images.
