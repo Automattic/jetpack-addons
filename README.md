@@ -33,3 +33,4 @@ If you experience issues with one of those plugins, you can contact Jetpack supp
 ### Extras
 
 - [Only show Jetpack snow on a specific page](https://github.com/jeherve/jetpack-addons/archive/limited-snow.zip): ID 1051 in this example.
+- [Disable devicepx](https://github.com/jeherve/jetpack-addons/archive/jeherve-disable-devicepx.zip): Disable Jetpack's Retina handling library.
