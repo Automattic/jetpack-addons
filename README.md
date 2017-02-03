@@ -25,6 +25,10 @@ If you experience issues with one of those plugins, you can contact Jetpack supp
 
 - [Public Related Posts](https://github.com/automattic/jetpack-addons/archive/public-related-posts.zip): Forces Posts to be considered public by Jetpack.
 
+### SSO
+
+- [Force Jetpack SSO](https://github.com/automattic/jetpack-addons/archive/force-sso.zip): Forces the SSO module to always be active. To tweak even more Jetpack SSO settings, one can use [this plugin](https://github.com/Automattic/jetpack-force-2fa).
+
 ### Widgets
 
 - [Random Top Posts](https://github.com/automattic/jetpack-addons/archive/random-top-posts.zip): Replace the posts displayed in the Top Posts Widget by a list of random posts, that all include images.
