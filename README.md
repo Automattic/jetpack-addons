@@ -26,6 +26,10 @@ If you experience issues with one of those plugins, you can contact Jetpack supp
 
 - [Public Related Posts](https://github.com/automattic/jetpack-addons/archive/public-related-posts.zip): Forces Posts to be considered public by Jetpack.
 
+### Sitemaps
+
+- [Force Deactivate Sitemaps](https://github.com/Automattic/jetpack-addons/blob/force-deactivate-sitemaps/force-deactivate-sitemaps.php): If you have lost access to your site's dashboard, you can use this plugin to deactivate the Sitemaps feature in Jetpack.
+
 ### SSO
 
 - [Force Jetpack SSO](https://github.com/automattic/jetpack-addons/archive/force-sso.zip): Forces the SSO module to always be active. To tweak even more Jetpack SSO settings, one can use [this plugin](https://github.com/Automattic/jetpack-force-2fa).
