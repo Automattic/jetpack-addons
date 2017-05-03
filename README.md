@@ -51,6 +51,7 @@ Theme](https://github.com/automattic/jetpack-addons/archive/rm-minileven-sidebar
 
 - [Random Top Posts](https://github.com/automattic/jetpack-addons/archive/random-top-posts.zip): Replace the posts displayed in the Top Posts Widget by a list of random posts, that all include images.
 - [Top Posts](https://github.com/automattic/jetpack-addons/archive/top-posts-api.zip): Get a list of the top 20 most popular posts in the past week. Uses the WordPress.com REST API.
+- [Remove link from Jetpack's Facebook Like Box widget](https://github.com/automattic/jetpack-addons/archive/rm-fb-widget-title.zip)
 
 ### Extras
 
