@@ -22,6 +22,11 @@ If you experience issues with one of those plugins, you can contact Jetpack supp
 
 - [Change Gallery Links](https://github.com/automattic/jetpack-addons/archive/change-gallery-links.zip): Change the link value for all links in the Gallery using the ID 4.
 
+### Mobile Theme
+
+- [Deactivate the sidebar in Jetpack's Mobile 
+Theme](https://github.com/automattic/jetpack-addons/archive/rm-minileven-sidebar.zip).
+
 ### Related Posts
 
 - [Public Related Posts](https://github.com/automattic/jetpack-addons/archive/public-related-posts.zip): Forces Posts to be considered public by Jetpack.
