@@ -43,6 +43,10 @@ Theme](https://github.com/automattic/jetpack-addons/archive/rm-minileven-sidebar
 
 - [Force Jetpack SSO](https://github.com/automattic/jetpack-addons/archive/force-sso.zip): Forces the SSO module to always be active. To tweak even more Jetpack SSO settings, one can use [this plugin](https://github.com/Automattic/jetpack-force-2fa).
 
+### Subscriptions
+
+- [Add a Jetpack Subscription form to the bottom of each post, on single posts.](https://github.com/automattic/jetpack-addons/archive/sub-form-below-content.zip).
+
 ### Widgets
 
 - [Random Top Posts](https://github.com/automattic/jetpack-addons/archive/random-top-posts.zip): Replace the posts displayed in the Top Posts Widget by a list of random posts, that all include images.
