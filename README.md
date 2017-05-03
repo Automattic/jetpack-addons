@@ -34,6 +34,7 @@ Theme](https://github.com/automattic/jetpack-addons/archive/rm-minileven-sidebar
 ### Sharing
 
 - [Offer all images when sharing via Pinterest](https://github.com/automattic/jetpack-addons/archive/pinterest-all-images.zip): Will allow your readers to pin any image on the page, not just the post's featured image.
+- [Disable Jetpack Open Graph tags](https://github.com/automattic/jetpack-addons/archive/rm-jetpack-og-tags.zip)
 
 ### Sitemaps
 
