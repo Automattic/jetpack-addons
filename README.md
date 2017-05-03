@@ -26,6 +26,10 @@ If you experience issues with one of those plugins, you can contact Jetpack supp
 
 - [Public Related Posts](https://github.com/automattic/jetpack-addons/archive/public-related-posts.zip): Forces Posts to be considered public by Jetpack.
 
+### Sharing
+
+- [Offer all images when sharing via Pinterest](https://github.com/automattic/jetpack-addons/archive/pinterest-all-images.zip): Will allow your readers to pin any image on the page, not just the post's featured image.
+
 ### Sitemaps
 
 - [Force Deactivate Sitemaps](https://github.com/Automattic/jetpack-addons/blob/force-deactivate-sitemaps/force-deactivate-sitemaps.php): If you have lost access to your site's dashboard, you can use this plugin to deactivate the Sitemaps feature in Jetpack.
