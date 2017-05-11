@@ -12,7 +12,8 @@ If you experience issues with one of those plugins, you can contact Jetpack supp
 
 - [Delete Jetpack options](https://github.com/automattic/jetpack-addons/archive/add/jp-rm-options.zip): Delete your Jetpack Options.
 - [Jetpack Only for Admins](https://github.com/automattic/jetpack-addons/archive/jetpack-admins.zip): Hides the Jetpack menu for all non-admins.
-- [Use the old Connection flow](https://github.com/automattic/jetpack-addons/archive/add/add/old-connection-flow.zip): Forces Jetpack to connect to WordPress.com using the old connection flow.
+- [Use the old Connection flow](https://github.com/Automattic/jetpack-addons/archive/add/old-connection-flow.zip): Forces Jetpack 
+to connect to WordPress.com using the old connection flow.
 - [Jetpack's Development mode](https://github.com/automattic/jetpack-addons/archive/dev-mode.zip)
 
 ### Custom CSS
