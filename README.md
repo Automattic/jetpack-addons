@@ -12,9 +12,10 @@ If you experience issues with one of those plugins, you can contact Jetpack supp
 
 - [Delete Jetpack options](https://github.com/automattic/jetpack-addons/archive/add/jp-rm-options.zip): Delete your Jetpack Options.
 - [Jetpack Only for Admins](https://github.com/automattic/jetpack-addons/archive/jetpack-admins.zip): Hides the Jetpack menu for all non-admins.
-- [Use the old Connection flow](https://github.com/Automattic/jetpack-addons/archive/add/old-connection-flow.zip): Forces Jetpack 
+- [Use the old Connection flow](https://github.com/Automattic/jetpack-addons/archive/add/old-connection-flow.zip): Forces Jetpack
 to connect to WordPress.com using the old connection flow.
 - [Jetpack's Development mode](https://github.com/automattic/jetpack-addons/archive/dev-mode.zip)
+- [Fix a race condition in alloptions caching](https://github.com/automattic/jetpack-addons/archive/delete-alloptions.zip): Flush alloptions cache on sites where caching is an issue during the connection process.
 
 ### Custom CSS
 
@@ -26,7 +27,7 @@ to connect to WordPress.com using the old connection flow.
 
 ### Mobile Theme
 
-- [Deactivate the sidebar in Jetpack's Mobile 
+- [Deactivate the sidebar in Jetpack's Mobile
 Theme](https://github.com/automattic/jetpack-addons/archive/rm-minileven-sidebar.zip).
 
 ### Related Posts
