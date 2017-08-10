@@ -18,6 +18,10 @@ to connect to WordPress.com using the old connection flow.
 - [Fix a race condition in alloptions caching](https://github.com/automattic/jetpack-addons/archive/delete-alloptions.zip): Flush alloptions cache on sites where caching is an issue during the connection process.
 - [Advanced Settings Links](https://github.com/jeherve/advanced-settings-for-jetpack/archive/master.zip): add links to the full module list in your dashboard.
 
+### Contact Form
+
+- [Disable Contact Form Editor View](https://github.com/Automattic/jetpack-addons/archive/disable-grunion-editor-view.zip): Disable Jetpack Contact Form's until a new release happens (5.2.x or 5.3)
+
 ### Custom CSS
 
 - [Custom CSS for Jetpack's Mobile Theme](https://github.com/automattic/jetpack-addons/archive/mobile-custom-css.zip): Customize Jetpack's Mobile Theme by adding this plugin, and editing styles under Appearance > Customize. This plugin will become unnecessary when [this Jetpack issue](https://github.com/Automattic/jetpack/issues/5815) gets fixed.
