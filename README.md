@@ -52,13 +52,14 @@ Theme](https://github.com/automattic/jetpack-addons/archive/rm-minileven-sidebar
 - [Sharing buttons shortcode for Jetpack](https://wordpress.org/plugins/jetpack-sharing-butttons-shortcode/): add sharing buttons anywhere inside your posts thanks to the [jpshare] shortcode.
 - [Facebook Like & Share Button](https://github.com/jeherve/like-share-facebook-jetpack/archive/master.zip): add an additional "Facebook Like & Share" option under Settings > Sharing.
 - Facebook Like Button](https://github.com/jeherve/like-share-facebook-jetpack/archive/just-like.zip): add an additional "Facebook Like" option under Settings > Sharing.
-- [Custom OG Tags for selected posts](https://github.com/automattic/jetpack-addons/archive/custom-og-urls.zip): this is useful when switching from HTTP 
-to HTTPS and wanting to keep sharing counts for example. Full details on how to use this plugin 
+- [Custom OG Tags for selected posts](https://github.com/automattic/jetpack-addons/archive/custom-og-urls.zip): this is useful when switching from HTTP
+to HTTPS and wanting to keep sharing counts for example. Full details on how to use this plugin
 [here](https://github.com/Automattic/jetpack-addons/blob/custom-og-urls/README.md).
 
 ### Sitemaps
 
 - [Force Deactivate Sitemaps](https://github.com/Automattic/jetpack-addons/blob/force-deactivate-sitemaps/force-deactivate-sitemaps.php): If you have lost access to your site's dashboard, you can use this plugin to deactivate the Sitemaps feature in Jetpack.
+- [Empty all saved sitemaps](https://github.com/Automattic/jetpack-addons/archive/flush-sitemaps.zip): If you need to empty all existing sitemaps, you can use this plugin.
 
 ### SSO
 
