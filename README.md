@@ -10,7 +10,8 @@ Define custom OG URLs for each one of your posts. If you don't add a custom OG U
 
 ## How to use the plugin
 
-The plugin won't add any new input field or interface on your site. Once it's active, you can specify a custom Opeg Graph URL for each post by going to Posts > All Posts in your dashboard, clicking on the post you want to edit, and using the Custom Fields input field to add a new custom field with the name `custom_og_url` and the value you need, like so:
+The plugin won't add any new input field or interface on your site. Once it's active, you can specify a custom Open Graph URL for each post by going to 
+Posts > All Posts in your dashboard, clicking on the post you want to edit, and using the Custom Fields input field to add a new custom field with the name `custom_og_url` and the value you need, like so:
 
 ![Custom Fields' interface](https://cloud.githubusercontent.com/assets/426388/24169580/62189994-0e7e-11e7-9c9e-68548cf25444.png)
 
