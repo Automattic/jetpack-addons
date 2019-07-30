@@ -17,7 +17,7 @@ to connect to WordPress.com using the old connection flow.
 - [Jetpack's Development mode](https://github.com/automattic/jetpack-addons/archive/dev-mode.zip)
 - [Fix a race condition in alloptions caching](https://github.com/automattic/jetpack-addons/archive/delete-alloptions.zip): Flush alloptions cache on sites where caching is an issue during the connection process.
 - [Advanced Settings Links](https://github.com/jeherve/advanced-settings-for-jetpack/archive/master.zip): add links to the full module list in your dashboard.
-- [Jetpack - XML-RPC Connection Helper (for Jetpack 7.5](https://github.com/automattic/jetpack-addons/archive/add/jetpack-xmlrpc-connection.zip): A temporary fix for Jetpack 7.5 sites that are having a hard time Connecting/Registering. See [#](https://github.com/Automattic/jetpack/issues/13136), [#](https://github.com/Automattic/jpop-issues/issues/4086).
+- [Jetpack - XML-RPC Connection Helper (for Jetpack 7.5)](https://github.com/automattic/jetpack-addons/archive/add/jetpack-xmlrpc-connection.zip): A temporary fix for Jetpack 7.5 sites that are having a hard time Connecting/Registering. See [#](https://github.com/Automattic/jetpack/issues/13136), [#](https://github.com/Automattic/jpop-issues/issues/4086).
 
 ### Contact Form
 
