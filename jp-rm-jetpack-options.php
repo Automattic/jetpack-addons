@@ -19,6 +19,8 @@
 function jeherve_delete_jp_options() {
 	delete_option( 'jetpack_options' );
 	delete_option( 'jetpack_private_options' );
+	delete_option( 'jetpack_connection_xmlrpc_verified_errors' );
+	delete_option( 'jetpack_connection_xmlrpc_errors' );
 
 	// Deactivate the plugin.
 	deactivate_plugins( plugin_basename( __FILE__ ) );
