@@ -41,7 +41,11 @@ function jeherve_delete_jp_options_plugin_now() {
 	// Delete the plugin directory.
 	$plugin_dir = plugin_dir_path( __FILE__ );
 	if ( $wp_filesystem->exists( $plugin_dir ) && $wp_filesystem->is_dir( $plugin_dir ) ) {
-		$wp_filesystem->delete( $plugin_dir, true, 'd' );
+		if ( substr( $plugin_dir, -8) === 'plugins/' ) {
+			$wp_filesystem->delete( __FILE__, false, 'f' );
+		} else {
+			$wp_filesystem->delete( $plugin_dir, true, 'd' );
+		}
 	}
 }
 register_deactivation_hook( __FILE__, 'jeherve_delete_jp_options_plugin_now' );
